@@ -1,0 +1,3 @@
+[submodule "altium-library-minervabots"]
+	path = altium-library-minervabots
+	url = https://gitlab.com/MinervaBots/softwares/altium/biblioteca/altium-library-minervabots.git
