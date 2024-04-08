@@ -1,0 +1,70 @@
+Added Component: Designator=Microcrontrolador ESP(XCVR_ESP8266)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ESP8266/Espressif+Systems/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ESP8266"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/ESP8266/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ESP8266/Espressif+Systems/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Regulador 7805(D2PAK_N)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "3-Pin Transistor Outline Package 2.54 mm Pitch, 15.1 mm Lead Span"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "D2PAK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Sensor 1(KK3)
+Added Component: Designator=Sensor 2(KK3)
+Added Component: Designator=Sensor 3(KK3)
+Added Component: Designator=Sensor Analógico(KK3)
+Added Component: Designator=Servo 1(KK3)
+Added Component: Designator=Servo 2(KK3)
+Added Component: Designator=Servo ?(KK3)
+Added Pin To Net: NetName=GND Pin=Microcrontrolador ESP-4
+Added Pin To Net: NetName=GND Pin=Regulador 7805-2
+Added Pin To Net: NetName=GND Pin=Sensor 1-3
+Added Pin To Net: NetName=GND Pin=Sensor 2-3
+Added Pin To Net: NetName=GND Pin=Sensor 3-3
+Added Pin To Net: NetName=GND Pin=Sensor Analógico-3
+Added Pin To Net: NetName=GND Pin=Servo 1-3
+Added Pin To Net: NetName=GND Pin=Servo 2-3
+Added Pin To Net: NetName=GND Pin=Servo ?-3
+Added Net: Name=GND
+Added Pin To Net: NetName=SENS 1 Pin=Microcrontrolador ESP-20
+Added Pin To Net: NetName=SENS 1 Pin=Sensor 1-1
+Added Net: Name=SENS 1
+Added Pin To Net: NetName=SENS 2 Pin=Microcrontrolador ESP-28
+Added Pin To Net: NetName=SENS 2 Pin=Sensor 2-1
+Added Net: Name=SENS 2
+Added Pin To Net: NetName=SENS 3 Pin=Microcrontrolador ESP-27
+Added Pin To Net: NetName=SENS 3 Pin=Sensor 3-1
+Added Net: Name=SENS 3
+Added Pin To Net: NetName=SENSA Pin=Microcrontrolador ESP-5
+Added Pin To Net: NetName=SENSA Pin=Sensor Analógico-1
+Added Net: Name=SENSA
+Added Pin To Net: NetName=SERVO 1 Pin=Microcrontrolador ESP-21
+Added Pin To Net: NetName=SERVO 1 Pin=Servo 1-1
+Added Net: Name=SERVO 1
+Added Pin To Net: NetName=SERVO 2 Pin=Microcrontrolador ESP-22
+Added Pin To Net: NetName=SERVO 2 Pin=Servo 2-1
+Added Net: Name=SERVO 2
+Added Pin To Net: NetName=SERVO 3 Pin=Microcrontrolador ESP-23
+Added Pin To Net: NetName=SERVO 3 Pin=Servo ?-1
+Added Net: Name=SERVO 3
+Added Pin To Net: NetName=VBAT Pin=Regulador 7805-1
+Added Net: Name=VBAT
+Added Pin To Net: NetName=VREG Pin=Microcrontrolador ESP-17
+Added Pin To Net: NetName=VREG Pin=Microcrontrolador ESP-18
+Added Pin To Net: NetName=VREG Pin=Regulador 7805-3
+Added Pin To Net: NetName=VREG Pin=Sensor 1-2
+Added Pin To Net: NetName=VREG Pin=Sensor 2-2
+Added Pin To Net: NetName=VREG Pin=Sensor 3-2
+Added Pin To Net: NetName=VREG Pin=Sensor Analógico-2
+Added Pin To Net: NetName=VREG Pin=Servo 1-2
+Added Pin To Net: NetName=VREG Pin=Servo 2-2
+Added Pin To Net: NetName=VREG Pin=Servo ?-2
+Added Net: Name=VREG
+Added Class: Name=NanoBoard
+Added Room: Name=NanoBoard
